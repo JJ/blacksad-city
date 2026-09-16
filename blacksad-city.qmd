@@ -1,0 +1,13 @@
+---
+title: "La ciudad *noir* en Blacksad"
+author: "JJ Merelo"
+format: pdf
+editor: visual
+bibliography: blacksad.bib
+---
+
+# Introducción
+
+El *noir* es un género eminentemente urbano. No hay *noir* en la campiña inglesa, si acaso novela de crímenes al estilo de Agatha Christie; no puede existir el *noir* en los Apalaches, si acaso novela gótica. No existe el noir en las refulgentes playas de California, ni en la sabana africana: por eso hay que inventarse sub-géneros, el surf-noir (más surf que noir) y el policial de Mma Ramotswe y su "Agencia de detectives para mujeres número 1" [@ramotswe].
+
+## Referencias
