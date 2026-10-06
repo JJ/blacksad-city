@@ -10,7 +10,7 @@ print "[";
 while(<>){
   if (/\@.+\{/) {
     my ($key) = /\{(\w+)\,/;
-    print "$key,";
+    print "\@$key,";
   }
 }
 print "]";
