@@ -4,13 +4,15 @@ author: "JJ Merelo"
 format: pdf
 editor: visual
 bibliography: blacksad.bib
+nocite: |
+   @RomeroBenguigui2023, @ClavijoCorchero2024, @FernandezRuizGarciaReyes2021, @PintoTortosa2026, @SantamariaAlonso2015, @Tolja2014, @Davies2019, @Tso2020, @Hochwender2023BlacksadReview, @Hochwender2023Translating, @Freeman2014Guarnido, @CityAsTheatre
 ---
 
 # Introducción
 
 El *noir* es un género eminentemente urbano. No hay *noir* en la campiña inglesa, si acaso novela de crímenes al estilo de Agatha Christie; no puede existir el *noir* en los Apalaches, si acaso novela gótica. No existe el noir en las refulgentes playas de California, ni en la sabana africana: por eso hay que inventarse sub-géneros tales como el surf-noir [@curnutt2017catch] (más surf que noir) y el *bush noir* con Mma Ramotswe y su "Agencia de detectives para mujeres número 1" [@ramotswe].
 
-Ene ste trabajo examinaremos los 7 tomos de Blacksad desde el punto de vista de la imagen de la ciudad americana que representan y cómo se aprovechan los recursos del cómic para crear atmósfera y dar el *sentido de lugar* habitual en el género.
+En este trabajo examinaremos los 7 tomos de Blacksad [@DiazCanalesGuarnido2000Blacksad; @DiazCanalesGuarnido2003ArcticNation; @DiazCanalesGuarnido2005AlmaRoja; @DiazCanalesGuarnido2010InfiernoSilencio; @DiazCanalesGuarnido2013Amarillo; @DiazCanalesGuarnido2021TodoCaePrimeraParte; @DiazCanalesGuarnido2023TodoCaeSegundaParte] desde el punto de vista de la imagen de la ciudad americana que representan y cómo se aprovechan los recursos del cómic para crear atmósfera y dar el *sentido de lugar* habitual en el género.
 
 ## Dramatis personae y su relación con los autores
 
@@ -25,4 +27,5 @@ Ene ste trabajo examinaremos los 7 tomos de Blacksad desde el punto de vista de 
 
 ## Referencias
 
-[@DiazCanalesGuarnido2000Blacksad,@DiazCanalesGuarnido2003ArcticNation,@DiazCanalesGuarnido2005AlmaRoja,@DiazCanalesGuarnido2010InfiernoSilencio,@DiazCanalesGuarnido2013Amarillo,@DiazCanalesGuarnido2021TodoCaePrimeraParte,@DiazCanalesGuarnido2023TodoCaeSegundaParte,@RomeroBenguigui2023,@ClavijoCorchero2024,@FernandezRuizGarciaReyes2021,@PintoTortosa2026,@SantamariaAlonso2015,@Tolja2014,@Davies2019,@Tso2020,@Hochwender2023BlacksadReview,@Hochwender2023Translating,@Freeman2014Guarnido,@CityAsTheatre]
+::: {#refs}
+:::
