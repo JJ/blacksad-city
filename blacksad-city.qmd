@@ -50,7 +50,21 @@ Estas derivas se van acentuando según progresa la serie, como muestra este apil
 
 Página que nos sirve también para ilustrar cómo se refleja la ciudad como escenario [@CityAsTheatre]. Las ciudades en el cómic no son reales, son escenarios creados por los autores y como tales pueden seguir las reglas de Serlio: [el escenario trágica](https://archive.org/details/tutteloperedarch00serl/page/n139/mode/2up) tiene una perspectiva amplia, proporciones clásicas, claridad y clasicismo; los [escenarios cómicas](https://archive.org/details/tutteloperedarch00serl/page/n137/mode/2up) tienen recovecos, caos, portales, esquinas, y sobre todo muchas líneas quebradas que cierran la perspectiva. Canales y Guarnido usan repetidamente este tipo de recurso, pero en esta doble página se puede ver el tipo de escenario "cómico" en la primera página y el "trágico" en la segunda, donde la bandera americana ocupa el punto de fuga en la perspectiva. En Blacksad se usa la *scena comica* para las persecuciones caóticas, las máscaras; las *scene tragiche* son, sin embargo, escenarios solemnes donde la ciudad se convierte en protagonista. En dobles páginas o secuencias como la @fig-marcas-ciudad, además, se usan como contraste social para mostrar la miseria y la sordidez al lado de la fiesta y el orden implícito en las celebraciones oficiales; ese contraste social y psicogeográfico se ve acentuado por el uso del color; en la última viñeta de la primera página las piezas de confeti de color amarillo, morado y verde contrastan con los colores fríos y oscuros que dominan la página que se convierten en colores primarios, vivos, cálidos cuando pasamos página.
 
-## Las ciudades americanas, su color y sus iconografía
+## Las ciudades americanas, su color y sus iconografías
+
+En la ficción se suelen usar una serie de tropos visuales para identificar las ciudades de las que se trata; tanto en el cine como en los cómics, los autores usan esos tropos para que el lector sepa identificar esas ciudades y asignarles los atributos correspondientes, que pasan a formar parte del contexto en el que sucede la acción. A estos tropos se les añade el ambiente *noir* que les da un tono y una atmósfera determinada, pero siempre tratando de hacer las ciudades reconocibles. A continuación trataremos de ver, para los cinco primeros tomos, de qué ciudad se trata y cómo usan los autres la iconografía tradicional para introducirla.
+
+### Un lugar entre las sombras
+
+Es muy complicado, o directamente imposible, saber dónde se sitúa la acción de este episodio de la serie. La falta de tropos visuales impide situarla exactamente en algún lugar.
+
+![Decorado de calle parisina en la página 16 de "Un lugar entre las sombras"](img/decorado.png){#fig-decorado width=40% fig-pos="h!tbp"}
+
+La mansión que se muestra en la primera viñeta, y el hecho de que se trate de una actriz, apunta a Los Angeles. Hay también una escena [p. 16, @DiazCanalesGuarnido2000Blacksad] que se desarrolla en un estudio cinematográfico en una escena, que, por cierto, recuerda a la fotografía ["Hyeres" de Cartier Bresson](https://www.centrepompidou.fr/fr/ressources/oeuvre/cL9RgbG) tratando de decir quizá que el decorado imitaba a una calle parisina.
+
+Sin embargo, el resto de las escenas y sobre todo la imagen final, de una calle genérica de una gran ciudad con casas altas y mansiones con una pequeña escalera delante (típicas de las zonas más señoriales de Manhattan y Brooklyn) la colocan en una "gran ciudad americana genérica", como afirma Santamaría [@SantamariaAlonso2015]. Yo tiendo a no estar de acuerdo; de hecho, la calle final podría corresponder a la zona de *downtown* Los Angeles. De hecho, en esa escena aparece un cartel de un comercio o bar llamado "Hammet's", una referencia a Dashiell Hammet lo que apuntaría a la costa este, ya que Hammet usa San Francisco como escenario para algunos de sus relatos.
+
+En todo caso, lo cierto es que lo que tratan de transmitir los autores es una ciudad *noir* por antonomasia, que toma referentes de diferentes grandes ciudades americanas quizás con el objetivo de colocarla en un universo propio y original.
 
 ## Historia de Nueva York en "Todo Cae"
 
