@@ -9,7 +9,7 @@ format:
 editor: visual
 bibliography: blacksad.bib
 nocite: |
-   @RomeroBenguigui2023, @ClavijoCorchero2024, @FernandezRuizGarciaReyes2021, @PintoTortosa2026, @Tolja2014, @Davies2019, @Tso2020, @Hochwender2023BlacksadReview, @Hochwender2023Translating, @CityAsTheatre, @oldblackmagic
+  @ClavijoCorchero2024, @FernandezRuizGarciaReyes2021, @PintoTortosa2026, @Tolja2014, @Davies2019, @Tso2020, @Hochwender2023BlacksadReview, @Hochwender2023Translating, @CityAsTheatre, @oldblackmagic
 ---
 
 # Introducción
@@ -29,7 +29,11 @@ Díaz Canales y Guarnido, respectivamente guionista y dibujante de la serie, se 
 
 ![Viñeta de "Arctic nation" donde Weasel y Blacksad se encuentran](img/weasel-small.jpg){#fig-weasel fig-pos="h!tbp" width=40%}
 
-El siguiente personaje habitual es Weekly (a veces llamado simplemente week), una comadreja (*weekly* - *weasel*) que ejerce de periodista, y que ocupa el rol de *buddy* y contrapunto cómico a la extrema seriedad de Blacksad. Sus ojos grandes y papada blanca, así como su pelaje marrón dorado, contrastan con el de Blacksad.
+El siguiente personaje habitual es Weekly (a veces llamado simplemente week), una comadreja (*weekly* - *weasel*) que ejerce de periodista, y que ocupa el rol de *buddy* y contrapunto cómico a la extrema seriedad de Blacksad. Sus ojos grandes y papada blanca, así como su pelaje marrón dorado, contrastan con el de Blacksad. Aparece por primera en la 6ª viñeta de Arctic Nation [@DiazCanalesGuarnido2003ArcticNation], en la segunda página.
+
+Guarnido estuvo trabajando como animador en los estudios Disney en Paris durante 10 años; de hecho, estuvo trabajando simultáneamente a las primeras ediciones del cómic. No solo esa idea de antropomorfizar animales viene de ahí, sino que incluso el dimorfismo sexual viene de esa escuela Disney [@RomeroBenguigui2023], donde además se usa el tipo de animal y sus atributos habituales (astucia del gato, el ser huidizo y la curiosidad de la comadreja) para describir de forma sencilla y directa un personaje.
+
+La idea original del cómic, sin embargo, partió de Díaz Canales [@RomeroBenguigui2023], aunque involucró a Guarnido a mediados de los años 90; Guarnido estudió Bellas Artes en Granada y Díaz Canales es madrileño, pero se conocieron en Madrid en el ya mencionado estudio Lápiz Azul [@Freeman2014Guarnido].
 
 ## La ciudad como escenario en el cómic de Blacksad
 
