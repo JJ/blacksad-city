@@ -1,11 +1,15 @@
 ---
 title: "La teriópolis *noir* en los cómics de Blacksad"
 author: "JJ Merelo"
-format: pdf
+format: 
+  pdf:
+    include-in-header:
+      text: |
+        \usepackage{wrapfig}
 editor: visual
 bibliography: blacksad.bib
 nocite: |
-   @RomeroBenguigui2023, @ClavijoCorchero2024, @FernandezRuizGarciaReyes2021, @PintoTortosa2026, @SantamariaAlonso2015, @Tolja2014, @Davies2019, @Tso2020, @Hochwender2023BlacksadReview, @Hochwender2023Translating, @Freeman2014Guarnido, @CityAsTheatre, @oldblackmagic
+   @RomeroBenguigui2023, @ClavijoCorchero2024, @FernandezRuizGarciaReyes2021, @PintoTortosa2026, @Tolja2014, @Davies2019, @Tso2020, @Hochwender2023BlacksadReview, @Hochwender2023Translating, @Freeman2014Guarnido, @CityAsTheatre, @oldblackmagic
 ---
 
 # Introducción
@@ -15,6 +19,15 @@ El *noir* es un género eminentemente urbano. No hay *noir* en la campiña ingle
 En este trabajo examinaremos los 7 tomos de Blacksad [@DiazCanalesGuarnido2000Blacksad; @DiazCanalesGuarnido2003ArcticNation; @DiazCanalesGuarnido2005AlmaRoja; @DiazCanalesGuarnido2010InfiernoSilencio; @DiazCanalesGuarnido2013Amarillo; @DiazCanalesGuarnido2021TodoCaePrimeraParte; @DiazCanalesGuarnido2023TodoCaeSegundaParte] desde el punto de vista de la imagen de la ciudad americana que representan y cómo se aprovechan los recursos del cómic para crear atmósfera y dar el *sentido de lugar* habitual en el género.
 
 ## Dramatis personae y su relación con los autores
+
+![Portada de Blacksad 1, con Blacksad](img/blacksad-small.jpg){#fig-blacksad height=400px}
+
+John Blacksad @fig-blacksad, un gato negro, es el protagonista de los siete albums de la serie. Aparece por primera vez en la segunda viñeta de "Un lugar entre las sombras" [@DiazCanalesGuarnido2000Blacksad], estableciendo las características básicas del personaje: es un gato de piel oscura, antropomorfizado hasta el punto de abandonar las pupilas lineales de los gatos por unas pupilas redondas con un iris marrón, y habitualmente ataviado con una gabardina. En esta segunda viñeta ya se establece el género claramente; en la primera página se completa este encuadre: mujer muerta, sexualizada, interacción del detective con la policía, caracterizada a su vez como un sabueso.
+
+Díaz Canales y Guarnido, respectivamente guionista y dibujante de la serie, se conocieron en el estudio de animación Lápiz Azul en Madrid [@SantamariaAlonso2015,]
+
+![Viñeta de "Arctic nation" donde Weasel y Blacksad se encuentran](img/weasel-small.jpg){fig-weasel height=400px}
+El siguiente personaje habitual es Weekly (a veces llamado simplemente week), una comadreja (*weekly* - *weasel*) que ejerce de periodista, y que ocupa el rol de *buddy* y contrapunto cómico a la extrema seriedad de Blacksad. Sus ojos grandes y papada blanca, así como su pelaje marrón dorado, contrastan con el de Blacksad.
 
 ## La ciudad como escenario en el cómic de Blacksad
 
