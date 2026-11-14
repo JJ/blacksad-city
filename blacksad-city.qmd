@@ -37,6 +37,15 @@ La idea original del cómic, sin embargo, partió de Díaz Canales [@RomeroBengu
 
 ## La ciudad como escenario en el cómic de Blacksad
 
+
+![Progresión de uso de paisajes urbanos en Blacksad](img/marcas-ciudad-small.jpg){#fig-marcas-ciudad fig-pos="h!tbp" width=40%}
+
+Como se ha indicado al principio, el *noir* se desarrolla en ciudades, no se puede entender sin las mismas, impartiendo un *sentido de lugar* que no es tan lejano a los relatos de viajes pero con un tinte psico-social que es específico de este tipo de novelas.
+
+Hasta cierto punto, las novelas gráficas, especialmente en este género, se pueden entender como un recorrido psicogeográfico a través que sigue al protagonista y a la acción, pero que también sitúa al lector abriendo perspectivas o creando una serie de hitos dentro de la ciudad, usando la propia cuadrícula de la página como un *camino* en la que el lector se convierte, con los personajes y especialmente Blacksad, en un *flaneur* o paseante a la deriva por una ciudad que en el caso de Blacksad son reales y situadas en unos años 50 de América más o menos vagos.
+
+Estas derivas se van acentuando según progresa la serie, como muestra este apilado de todos los cómics con marcas en donde aparecen paisajes urbanos @fig-marcas-ciudad, llegando a un pico en los últimos de la serie, "Todos Caen" [@DiazCanalesGuarnido2021TodoCaePrimeraParte; @DiazCanalesGuarnido2023TodoCaeSegundaParte], donde la ciudad es casi un protagonista y posiblemente la verdadera víctima. 
+
 ## Las ciudades americanas, su color y sus iconografía
 
 ## Historia de Nueva York en "Todo Cae"
