@@ -72,6 +72,8 @@ En todo caso, lo cierto es que lo que tratan de transmitir los autores es una ci
 
 ### Arctic Nation
 
+![¿Es un murciélago? ¿Es un gato? No, es Blacksad haciendo de Batman en Arctic Nation](img/blacksad-batman-small.jpg){#fig-batsad width=50% fig-pos="h!tbp"}
+
 El segundo álbum del ciclo del color, tiene como color principal el blanco. En un contexto de racismo sistémico y apoyado por la policía, se presenta como una lucha racial de los animales con piel o pelambre blanca (osos polares, armiños) contra todos los demás.
 
 Eso fuerza la identificación de la ciudad con una del sur de estados unidos contradiciendo las afirmaciones en la literatura [@SantamariaAlonso2015, @PintoTortosa2026] que la identifican como Nueva York con la única base de la viñeta final donde aparece un edificio que podría parecerse al Empire State Building. Sin embargo, se ve en la propia viñeta a unos coches descenciendo una cuesta al final de la cual está ese edificio, un paisaje que no aparece en Nueva York, donde no hay prácticamente ninguna colina rodeando la isla de Manhattan.
@@ -81,12 +83,17 @@ Sin embargo, hay otros factores que contradicen esta identificación. Primero, p
 - Primero y más importante, porque define el episodio, es la nieve.
 - El barrio "The Line", un barrio segregado, es otro elemento característico.
 - Aparecen de forma bastante prominente un viaducto elevado para un tren o tranvía.
-- En esa línea elevada hay estaciones abandonadas
+- En esa línea elevada hay estaciones abandonadas, que sirven para una referencia intertextual a Batman y su Gotham City @fig-batsad.
 - Tiene un papel fundamental en la trama una fábrica de aviación abandonada, donde aparece un bombardero semidesguazado que parece un [Boeing B-17 Flying Fortress](https://es.wikipedia.org/wiki/Boeing_B-17_Flying_Fortress) o en todo caso un bombardero pesado. La iglesia que aparece en la página 26, con una torre central y de estilo llamado federal o *colonial revival*, también puede encontrarse en la costa este estadounidense y especialmente en Maryland en suburbios como Annapolis, aunque es más frecuente que estén hechas en ladrillo y no en madera como esta.
 
-Hay varias ciudades que cumplen todas esas condiciones, entre ellas Memphis, Tennessee y Baltimore Maryland. Pero hay un detalle adicional: en una viñeta en la página 44 aparece una estación de servicio de la marca (ficticia) East Coast Gasoline. Esto situaría a la ciudad definitivamente en la costa este, como Baltimore.
+![Definitivamente no Nueva York: *rowhouses* en Artctic Nation](img/rowhouses-small.jpg){#fig-rowhouses width=50% fig-pos="h!tbp"}
+
+Hay varias ciudades que cumplen todas esas condiciones, entre ellas Memphis, Tennessee y Baltimore, Maryland. Pero hay un detalle adicional: en una viñeta en la página 44 aparece una estación de servicio de la marca (ficticia) East Coast Gasoline. Esto situaría a la ciudad definitivamente en la costa este, como Baltimore.
 De hecho, Baltimore tiene también un relieve considerable, con colinas de hasta 140 metros, lo que explicaría las cuestas que aparecen frecuentemente en el álbum (por ejemplo, en la misma página 44 y en la última página a la que hemos aludido).
 
+La figura @fig-rowhouses muestra el urbanismo característico de un suburbio donde se encuentran los "malos" de Arctic Nation, casas idénticas, unifamiliares hechas de madera (*clapboard houses*) en una calle recta en el tipo de urbanismo que se denomina [*streetcar suburb*](https://en.wikipedia.org/wiki/Streetcar_suburb) @fig-rowhouses. Este tipo de urbanismo no se encuentra en Baltimore, pero sí en otras ciudades que coincidirían en parte con las características de la de este álbum, como Richmond en Virginia. En todo caso, insistimos en el hecho de que son ciudades ficticias, que aunque tomen elementos principalmente de una ciudad real, pueden incorporar otros que consideren convenientes.
+
+Este tipo de urbanismo no se puede contrastar con el de "The Line", el suburbio segregado que es parte importante en la trama; apenas hay unas pinceladas como una plaza y un restaurante, "Barry's diner". En estos episodios tempranos, Díaz Canales y Guarnido todavía no habían entrado en el modo "urbanismo-ficción" que usarían más adelante.
 
 ## Historia de Nueva York en "Todo Cae"
 
