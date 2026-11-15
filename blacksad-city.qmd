@@ -7,8 +7,6 @@ editor: visual
 bibliography: blacksad.bib
 csl: apa.csl
 lang: es-ES
-nocite: |
-  @Hochwender2023BlacksadReview
 ---
 
 # Introducción
@@ -133,6 +131,13 @@ Tránsito masivo que, como la ruta 66, da lugar a un tipo de ciudad muy específ
 Tránsito que creó en muchas ciudades el modelo de *main street*, una calle alargada a lo largo de una ruta terrestre, carretera o ferroviaria. Se trata del llamado *urbanismo lineal* o *street village*. En Amarillo la calle principal era la calle Polk, mostrada en la @fig-amarillo. En la psicogeografía de este tipo de ciudades, un ritual llamado [*dragging main*](https://pioneergirlproject.org/2021/05/21/dragging-main/) (*draggin' Polk*, en el caso de Amarillo) consistía en ir en coches descapotables paseando por la calle, torciendo al llegar al final. En la figura, el gang de moteros que ha includo a Blacksad está haciendo exactamente eso.
 
 ## Historia de Nueva York en "Todo Cae"
+
+![Lewis Solomon en medio de una "hooverville" o *slum* neoyorkino](img/solomon-hooverville-small.jpg){#fig-solomon-hooverville width=60% fig-pos="h!tbp"}
+
+En esta historia, dividida en dos volúmenes [@Hochwender2023BlacksadReview] es donde Díaz Canales y Guarnido apuntan se acercan más a la historia del urbanismo, el de Nueva York en los años 50 y sucesivos, cuando [Robert Moses](https://en.wikipedia.org/wiki/Robert_Moses), bajo el inocuo título de director de la Triborough Bridge Authority así como otros títulos como presidente de la comisión del parque estatal de Long Island, rehizo el urbanismo de la ciudad suprimiendo barrios enteros y segregando a base de vías infranqueables barrios de gente de color de otros para ingresos más altos.
+
+En los dos tomos se recorre prácticamente toda la historia. Como se muestra en la @fig-solomon-hooverville, el trasunto de Moses, llamado Lewis Solomon (cambiando un profeta bíblico por otro), aparece en las *hooverville* con la intención de eliminarlas y crear sobre ellas un parque, en una de las raíces de la trama. Como se ha comentado, la raíz del *noir* es atajar las injusticias infligidas sobre alguien o algo. En este caso, la propia ciudad de Nueva York, convertida en *teriópolis* o ciudad de animales, es la que sufre estas injusticias. Los continuos viajes a las entrañas de Nueva York parece que sirva de trasunto de las entrañas metafóricas de la ciudad como organismo, y cómo a base de esos ataques y los cadáveres que aloja, la enfermedad acaba afectando a toda la ciudad. La injusticia social es un cáncer, y Blacksad trata de diagnosticarlo y, ya que no puede curarlo, al menos evitar su progreso.
+
 
 ## Conclusiones: ficción para el realismo
 
