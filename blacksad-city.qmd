@@ -9,7 +9,7 @@ format:
 editor: visual
 bibliography: blacksad.bib
 nocite: |
-  @Tso2020, @Hochwender2023BlacksadReview, @Hochwender2023Translating
+  @Hochwender2023BlacksadReview, @Hochwender2023Translating
 ---
 
 # Introducción
@@ -42,7 +42,7 @@ La idea original del cómic, sin embargo, partió de Díaz Canales [@RomeroBengu
 
 Como se ha indicado al principio, el *noir* se desarrolla en ciudades, no se puede entender sin las mismas, impartiendo un *sentido de lugar* que no es tan lejano a los relatos de viajes pero con un tinte psico-social que es específico de este tipo de novelas.
 
-Hasta cierto punto, las novelas gráficas, especialmente en este género, se pueden entender como un recorrido psicogeográfico a través de la ciudad que sigue al protagonista y a la acción, pero que también sitúa al lector abriendo perspectivas o creando una serie de hitos dentro de la ciudad, usando la propia cuadrícula de la página como un *camino* [@Davies2019] en el que el lector se convierte, con los personajes y especialmente Blacksad, en un *flâneur* o paseante [@@Tolja2014] a la deriva por una ciudad que en el caso de Blacksad son reales y situadas en unos años 50 de América más o menos vagos.
+Hasta cierto punto, las novelas gráficas, especialmente en este género, se pueden entender como un recorrido psicogeográfico [@Tso2020] a través de la ciudad que sigue al protagonista y a la acción, pero que también sitúa al lector abriendo perspectivas o creando una serie de hitos dentro de la ciudad, usando la propia cuadrícula de la página como un *camino* [@Davies2019] en el que el lector se convierte, con los personajes y especialmente Blacksad, en un *flâneur* o paseante [@@Tolja2014] a la deriva por una ciudad que en el caso de Blacksad son reales y situadas en unos años 50 de América más o menos vagos.
 
 ![Doble página de "El infierno, el Silencio", mostrando el contraste extremo en una sola ciudad](img/2paginas-infierno.jpg){#fig-infierno width=80% fig-pos="h!tbp"}
 
@@ -111,7 +111,7 @@ En este número empieza a haber referencias al mundo cultural y artístico, con 
 
 ### El infierno, el silencio
 
-En este 4º volumen que es exteriormente azul , pero que en realidad es el volumen multicolor del ciclo del color [@DiazCanalesGuarnido2010InfiernoSilencio] no es complicado asignarle Nueva Orleáns como ya se ha visto en @fig-infierno. También aparece explícitamente en la página 5 en un llamado "Nueva Orleans Jazz'n'Fun". De hecho, aparte de usar fotografías históricas de referencia, hicieron un viaje sobre el terreno [@Freeman2014Guarnido]
+En este 4º volumen que es exteriormente azul , pero que en realidad es el volumen multicolor del ciclo del color [@DiazCanalesGuarnido2010InfiernoSilencio] no es complicado asignarle Nueva Orleáns como ya se ha visto en @fig-infierno. También aparece explícitamente en la página 5 en un llamado "Nueva Orleans Jazz'n'Fun". De hecho, aparte de usar fotografías históricas de referencia, hicieron un viaje sobre el terreno [@Freeman2014Guarnido]. Blacksad, como *flâneur*, nos ofrece una visión del *genius loci* o verdadera esencia urbana de la ciudad [@Tso2020] @fig-infierno, mostrando el genio del lugar, un *sentido del lugar* que como se ha referido en la introducción, es la esencia del *noir*.
 
 ## Historia de Nueva York en "Todo Cae"
 
