@@ -122,11 +122,15 @@ De hecho, los tranvías aparecen repetidamente y con el modelo y librea adecuado
 
 ### Amarillo
 
-No hace falta decir cuál es el color de este último tomo de la saga [@DiazCanalesGuarnido2013Amarillo]; se refiere en realidad a una ciudad de Texas, pero el color en un tono u otro inunda el álbum: Blacsad transita en un Cadillac Eldorado de color amarillo por las carreteras doradas del desierto al amanecer (página 8); el circo se llama Girasol y tiene una carpa de color amarillo; las flores marchitas en las últimas páginas también lo son.
+![Blacksad y el gang de moteros por Polk Street en Amarillo, cruzada por la Ruta 66](img/amarillo-small.jpg){#fig-amarillo width=70% fig-pos="h!tbp"}
+
+No hace falta decir cuál es el color de este último tomo de la saga [@DiazCanalesGuarnido2013Amarillo]; se refiere en realidad a una ciudad de Texas, pero el color en un tono u otro inunda el álbum: Blacksad transita en un Cadillac Eldorado de color amarillo por las carreteras doradas del desierto al amanecer (página 8); el circo se llama Girasol y tiene una carpa de color amarillo; las flores marchitas en las últimas páginas también lo son.
 
 En este tomo, sin embargo, no se trata tanto de una ciudad como de una carretera, la Ruta 66, que va de Chicago a Los Angeles pasando, claro, por Amarillo, Texas. El tránsito entre diferentes partes de Estados Unidos parece ser el tema principal: Union Station en Chicago y Nueva York, estación Greyhound, escenas del ferrocarril entre unas partes y otras del mismo.
 
-Tránsito masivo que, como la ruta 66, da lugar a un tipo de ciudad muy específico, como la Amarillo que se muestra en la página 20, claramente reconocible también por el [Santa Fe Building](https://en.wikipedia.org/wiki/Santa_Fe_Building_(Amarillo,_Texas)). Y es que también Amarillo es una encrucijada entre la carretera y el ferrocarril, añadiendo al tema del álbum, que también hace referencias a "En la carretera" de Jack Kerouac, cuyo avatar en el mismo es Chad 
+Tránsito masivo que, como la ruta 66, da lugar a un tipo de ciudad muy específico, como la Amarillo que se muestra en la página 20, claramente reconocible también por el [Santa Fe Building](https://en.wikipedia.org/wiki/Santa_Fe_Building_(Amarillo,_Texas)). Y es que también Amarillo es una encrucijada entre la carretera y el ferrocarril, añadiendo al tema del álbum, que también hace referencias a "En la carretera" de Jack Kerouac, cuyo avatar en el mismo es Chad Lowell.
+
+Tránsito que creó en muchas ciudades el modelo de *main street*, una calle alargada a lo largo de una ruta terrestre, carretera o ferroviaria. Se trata del llamado *urbanismo lineal* o *street village*. En Amarillo la calle principal era la calle Polk, mostrada en la @fig-amarillo. En la psicogeografía de este tipo de ciudades, un ritual llamado [*dragging main*](https://pioneergirlproject.org/2021/05/21/dragging-main/) (*draggin' Polk*, en el caso de Amarillo) consistía en ir en coches descapotables paseando por la calle, torciendo al llegar al final. En la figura, el gang de moteros que ha includo a Blacksad está haciendo exactamente eso.
 
 ## Historia de Nueva York en "Todo Cae"
 
