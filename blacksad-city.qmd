@@ -54,7 +54,9 @@ En algunos casos el cómic se convierte en metaficción con referencias a otras 
 
 ## Las ciudades americanas, su color y sus iconografías
 
-En la ficción se suelen usar una serie de tropos visuales para identificar las ciudades de las que se trata; tanto en el cine como en los cómics, los autores usan esos tropos para que el lector sepa identificar esas ciudades y asignarles los atributos correspondientes, que pasan a formar parte del contexto en el que sucede la acción. A estos tropos se les añade el ambiente *noir* que les da un tono y una atmósfera determinada, pero siempre tratando de hacer las ciudades reconocibles. A continuación trataremos de ver, para los cinco primeros tomos, de qué ciudad se trata y cómo usan los autres la iconografía tradicional para introducirla.
+En la ficción se suelen usar una serie de tropos visuales para identificar las ciudades de las que se trata; tanto en el cine como en los cómics, los autores usan esos tropos para que el lector sepa identificar esas ciudades y asignarles los atributos correspondientes, que pasan a formar parte del contexto en el que sucede la acción. A estos tropos se les añade el ambiente *noir* que les da un tono y una atmósfera determinada, pero siempre tratando de hacer las ciudades reconocibles. A continuación trataremos de ver, para los cinco primeros tomos, de qué ciudad se trata y cómo usan los autores la iconografía tradicional para introducirla.
+
+En todo caso, los autores han tratado siempre de componer *la ciudad* como trasfondo y a veces personaje de la acción; una ciudad que puede tomar elementos visuales de una ciudad real americana y por tanto se puede interpretar posiblemente como esa ciudad, pero que no deja de ser una ciudad ficticia e irreal. Por esa razón, casi siempre presentará tropos visuales de diferentes ciudades que harán cualquier identificación solamente tentativa.
 
 ### Un lugar entre las sombras
 
@@ -66,7 +68,7 @@ La mansión que se muestra en la primera viñeta, y el hecho de que se trate de 
 
 Sin embargo, el resto de las escenas y sobre todo la imagen final, de una calle genérica de una gran ciudad con casas altas y mansiones con una pequeña escalera delante (típicas de las zonas más señoriales de Manhattan y Brooklyn) la colocan en una "gran ciudad americana genérica", como afirma Santamaría [@SantamariaAlonso2015]. Yo tiendo a no estar de acuerdo; de hecho, la calle final podría corresponder a la zona de *downtown* Los Angeles. De hecho, en esa escena aparece un cartel de un comercio o bar llamado "Hammet's", una referencia a Dashiell Hammet lo que apuntaría a la costa este, ya que Hammet usa San Francisco como escenario para algunos de sus relatos.
 
-En todo caso, lo cierto es que lo que tratan de transmitir los autores es una ciudad *noir* por antonomasia, que toma referentes de diferentes grandes ciudades americanas quizás con el objetivo de colocarla en un universo propio y original.
+En todo caso, lo cierto es que lo que tratan de transmitir los autores es una ciudad *noir* por antonomasia, que toma referentes de diferentes grandes ciudades americanas quizás con el objetivo de colocarla en un universo propio y original. De hecho, en este primer número se inicia el llamado "Ciclo del color" que abarca los cinco primeros álbumes. En este caso el color que prevalece sería el negro (que técnicamente no es un color, sino ausencia del mismo)
 
 ## Historia de Nueva York en "Todo Cae"
 
