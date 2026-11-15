@@ -118,6 +118,12 @@ Esta no es la única referencia: en la página 15 una escena en un tranvía hace
 
 De hecho, los tranvías aparecen repetidamente y con el modelo y librea adecuado, reflejando la importancia del mismo en el urbanismo de Nueva Orleans, que creció siguiendo las líneas del tranvía a mediados del siglo XX. Lal anchura de las calles, que se ve pro ejemplo en la última viñeta de la página 11, en las figuras ya referida o en la página 55, se diseñó teniendo el tranvía en cuenta, incluyendo el bulevar central que aparece en la página 11 (última viñeta).
 
+La ciudad de Nueva Orleans también está caracterizada por la proximidad del Mississippi, el río que le da la vida y, cuando se desborda, se la quita. La ciudad vista desde el río, con un característico vapor de palas, aparece en la página 28, con una escena completa en tal vapor llamado ["SS President", un barco real recreado con fidelidad](https://en.wikipedia.org/wiki/President_(1924_steamboat)). También hay una escena en la página 36 que continúa en la 41.
+
+De hecho, en la página 41 aparece a medio construir el [Greater New Orleans Bridge](https://en.wikipedia.org/wiki/Crescent_City_Connection) [@SantamariaAlonso2015], que cruza el río Mississippi, lo que permite datar el cómic como anterior al año 1958, cuando se inauguró. Este puente, que conectaba las dos orillas del río, supuso un cambio urbanístico radical en la ciudad, provocando una fiebre inmobiliaria en la ciudad y la creación de suburbios a unos minutos del centro histórico a través de ese puente.
+
+Este puente a medio construir es ya una prefiguración de "Todo Cae", los dos últimos tomos de la serie. Pero además, fue un [proyecto de la firma de ingeniería de Robert Moses llamada "Andrews and Clark" en 1946](https://search.library.northwestern.edu/nde/fulldisplay/alma9982804876102441/01NWU_INST:NUTL_NDE). Es bastante improbable que los autores tuvieran ya en mente al menos el germen de la idea de esos últimos, pero lo cierto es que muestra su preocupación por la transformación epocal del urbanismo de las ciudades americanas en los años 50.
+
 ### Amarillo
 
 ![Blacksad y el gang de moteros por Polk Street en Amarillo, cruzada por la Ruta 66](img/amarillo-small.jpg){#fig-amarillo width=70% fig-pos="h!tbp"}
