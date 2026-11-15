@@ -98,6 +98,8 @@ La figura @fig-rowhouses muestra el urbanismo característico de un suburbio don
 
 Este tipo de urbanismo no se puede contrastar con el de "The Line", el suburbio segregado que es parte importante en la trama; apenas hay unas pinceladas como una plaza y un restaurante, "Barry's diner". En estos episodios tempranos, Díaz Canales y Guarnido todavía no habían entrado en el modo "urbanismo-ficción" que usarían más adelante.
 
+De forma relativamente excepcional, la historia continúa en las guardas del final del volumen. En un paisaje desértico en el que pone "Las Vegas 11 ml", se adivina el urbanismo en retícula de esta ciudad a la que llega una larga y recta carretera.
+
 ### Alma roja
 
 ![Blacksad dirigiéndose hacia la librería Low en Columbia](img/low-small.jpg){#fig-low width=40% fig-pos="h!tbp"}
@@ -136,6 +138,16 @@ Tránsito masivo que, como la ruta 66, da lugar a un tipo de ciudad muy específ
 
 Tránsito que creó en muchas ciudades el modelo de *main street*, una calle alargada a lo largo de una ruta terrestre, carretera o ferroviaria. Se trata del llamado *urbanismo lineal* o *street village*. En Amarillo la calle principal era la calle Polk, mostrada en la @fig-amarillo. En la psicogeografía de este tipo de ciudades, un ritual llamado [*dragging main*](https://pioneergirlproject.org/2021/05/21/dragging-main/) (*draggin' Polk*, en el caso de Amarillo) consistía en ir en coches descapotables paseando por la calle, torciendo al llegar al final. En la figura, el gang de moteros que ha includo a Blacksad está haciendo exactamente eso.
 
+El cómic muestra también otras ciudades en la ruta 66, a veces indicada explícitamente
+
+- En la escena de Tulsa, Oklahoma (p. 9) aparece un cartel "Route US 66" y la *main street* indicada, que en este caso sí parece coincidir con tal ruta.
+- Albuquerque, Nuevo Mexico, también en la ruta, aparece solo en un cartel indicando donde sucede la acción.
+- Santa Fe, Nuevo México, aparece etiquetada pero también uno de sus hitos, la iglesia de San Miguel.
+- Ratón, Nuevo México, una casa con porche residencial con *picket fences* en una calle alineada con postes eléctricos o telegráficos, típico de un suburbio de una ciudad pequeña ligada al ferrocarril como lo es [Ratón](https://en.wikipedia.org/wiki/Raton,_New_Mexico), prácticamente creada por la Atchinson, Topeka and Santa Fe Railway (cuyas oficinas se ven en @fig-amarillo) para servir como hito a la entrada del Raton Pass (dibujado también de forma realista en la página 45 del volumen, atravesado por un tren de tal compañía en el que va el circo).
+- De Chicago, fin de la Ruta 66, vemos hacia el final del volumen la Union Station, primero en perspectiva aérea y luego a nivel de calle; también la chata "Greyhound station", mostrando como se ha dicho los dos modos de transporte principales.
+- Finalmente, el Empire State y el Chrysler buildings nos devuelven a Nueva York, con una vista del río East al fondo
+
+La estación de Greyhound de Chicago vuelve a aparecer en la última viñeta, completando el recorrido psicogeográfico de la Ruta 66 en sentido inverso.
 ## Historia de Nueva York en "Todo Cae"
 
 ![Lewis Solomon en medio de una "hooverville" o *slum* neoyorkino](img/solomon-hooverville-small.jpg){#fig-solomon-hooverville width=60% fig-pos="h!tbp"}
