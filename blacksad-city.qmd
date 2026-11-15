@@ -74,7 +74,7 @@ En todo caso, lo cierto es que lo que tratan de transmitir los autores es una ci
 
 ![¿Es un murciélago? ¿Es un gato? No, es Blacksad haciendo de Batman en Arctic Nation](img/blacksad-batman-small.jpg){#fig-batsad width=50% fig-pos="h!tbp"}
 
-El segundo álbum del ciclo del color, tiene como color principal el blanco. En un contexto de racismo sistémico y apoyado por la policía, se presenta como una lucha racial de los animales con piel o pelambre blanca (osos polares, armiños) contra todos los demás.
+El segundo álbum [@DiazCanalesGuarnido2003ArcticNation] del ciclo del color, tiene como color principal el blanco. En un contexto de racismo sistémico y apoyado por la policía, se presenta como una lucha racial de los animales con piel o pelambre blanca (osos polares, armiños) contra todos los demás.
 
 Eso fuerza la identificación de la ciudad con una del sur de estados unidos contradiciendo las afirmaciones en la literatura [@SantamariaAlonso2015, @PintoTortosa2026] que la identifican como Nueva York con la única base de la viñeta final donde aparece un edificio que podría parecerse al Empire State Building. Sin embargo, se ve en la propia viñeta a unos coches descenciendo una cuesta al final de la cual está ese edificio, un paisaje que no aparece en Nueva York, donde no hay prácticamente ninguna colina rodeando la isla de Manhattan.
 
@@ -94,6 +94,14 @@ De hecho, Baltimore tiene también un relieve considerable, con colinas de hasta
 La figura @fig-rowhouses muestra el urbanismo característico de un suburbio donde se encuentran los "malos" de Arctic Nation, casas idénticas, unifamiliares hechas de madera (*clapboard houses*) en una calle recta en el tipo de urbanismo que se denomina [*streetcar suburb*](https://en.wikipedia.org/wiki/Streetcar_suburb) @fig-rowhouses. Este tipo de urbanismo no se encuentra en Baltimore, pero sí en otras ciudades que coincidirían en parte con las características de la de este álbum, como Richmond en Virginia. En todo caso, insistimos en el hecho de que son ciudades ficticias, que aunque tomen elementos principalmente de una ciudad real, pueden incorporar otros que consideren convenientes.
 
 Este tipo de urbanismo no se puede contrastar con el de "The Line", el suburbio segregado que es parte importante en la trama; apenas hay unas pinceladas como una plaza y un restaurante, "Barry's diner". En estos episodios tempranos, Díaz Canales y Guarnido todavía no habían entrado en el modo "urbanismo-ficción" que usarían más adelante.
+
+### Alma roja
+
+![Blacksad dirigiéndose hacia la librería Low en Columbia](img/low-small.jpg){#fig-low width=40% fig-pos="h!tbp"}
+
+Este álbum [@DiazCanalesGuarnido2005AlmaRoja] Dominada claramente por el color rojo en todos los sentidos, el de la amenaza nuclear y el *red scare* de los años 50 en Estados Unidos, le da más importancia a la arquitectura que al urbanismo, aunque hay un detalle que permite situarlo en Nueva York: la presencia de la [Low Memorial Library de la universidad de Columbia](https://en.wikipedia.org/wiki/Low_Memorial_Library) @fig-low, en Nueva York; también una escena en Central Park en la página 53 mostrando el [Bow Bridge](https://en.wikipedia.org/wiki/Bow_Bridge_(Central_Park)). Las escenas callejeras (por ejemplo, p. 31 donde tambien aparece *downtown*) son compatibles con la ciudad de Nueva York sin dejar de referirse a esa ciudad genérica propia del universo Blacksad.
+
+En este número empieza a haber referencias al mundo cultural y artístico, con una escena de una galería de arte llamada "Hopper" y un artista trasunto de Rothko, llamado Litvak; estas son las referencias culturales de este volumen.
 
 ## Historia de Nueva York en "Todo Cae"
 
