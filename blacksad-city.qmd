@@ -22,7 +22,7 @@ En este trabajo examinaremos los 7 tomos de Blacksad [@DiazCanalesGuarnido2000Bl
 
 ![Portada de Blacksad 1, con Blacksad](img/blacksad-small.jpg){#fig-blacksad  fig-pos="h!tbp" width=40%}
 
-John [@PintoTortosa2026] Blacksad @fig-blacksad, un gato negro, es el protagonista de los siete álbumes de la serie. Aparece por primera vez en la segunda viñeta de "Un lugar entre las sombras" [@DiazCanalesGuarnido2000Blacksad], estableciendo las características básicas del personaje: es un gato de piel oscura, antropomorfizado hasta el punto de abandonar las pupilas lineales de los gatos por unas pupilas redondas con un iris marrón, y habitualmente ataviado con una gabardina. En esta segunda viñeta ya se establece el género claramente; en la primera página se completa este encuadre: mujer muerta, sexualizada, interacción del detective con la policía, caracterizada a su vez como un sabueso.
+John [@PintoTortosa20262] Blacksad @fig-blacksad, un gato negro, es el protagonista de los siete álbumes de la serie. Aparece por primera vez en la segunda viñeta de "Un lugar entre las sombras" [@DiazCanalesGuarnido2000Blacksad], estableciendo las características básicas del personaje: es un gato de piel oscura, antropomorfizado hasta el punto de abandonar las pupilas lineales de los gatos por unas pupilas redondas con un iris marrón, y habitualmente ataviado con una gabardina. En esta segunda viñeta ya se establece el género claramente; en la primera página se completa este encuadre: mujer muerta, sexualizada, interacción del detective con la policía, caracterizada a su vez como un sabueso.
 
 Díaz Canales y Guarnido, respectivamente guionista y dibujante de la serie, se conocieron en el estudio de animación Lápiz Azul en Madrid [@SantamariaAlonso2015], donde se dedicaban a diseñar los llamados *layouts*. La introducción del personaje en las 4 primeras viñetas de la serie, estrechando la segunda viñeta donde enfocamos los ojos del detective (*private eye*, en inglés), el ensanchamiento de la tercera viñeta donde se ve el cadáver (que indica que se abren los ojos en sorpresa) y la cuarta, donde estrechamos el foco desde la tercera y mostramos los dos personajes y la casa, demuestran la habilidad compartida en esta labor y la compenetración entre guión y dibujante [@Freeman2014Guarnido; @Hochwender2023Translating].
 
@@ -58,37 +58,32 @@ En algunos casos el cómic se convierte en metaficción con referencias a otras 
 
 ## Las ciudades americanas, su color y sus iconografías
 
+
 En la ficción se suelen usar una serie de tropos visuales para identificar las ciudades de las que se trata; tanto en el cine como en los cómics, los autores usan esos tropos para que el lector sepa identificar esas ciudades y asignarles los atributos correspondientes, que pasan a formar parte del contexto en el que sucede la acción. A estos tropos se les añade el ambiente *noir* que les da un tono y una atmósfera determinada, pero siempre tratando de hacer las ciudades reconocibles. A continuación trataremos de ver, para los cinco primeros tomos, de qué ciudad se trata y cómo usan los autores la iconografía tradicional para introducirla.
 
 En todo caso, los autores han tratado siempre de componer *la ciudad* como trasfondo y a veces personaje de la acción; una ciudad que puede tomar elementos visuales de una ciudad real americana y por tanto se puede interpretar posiblemente como esa ciudad, pero que no deja de ser una ciudad ficticia e irreal. Por esa razón, casi siempre presentará tropos visuales de diferentes ciudades que harán cualquier identificación solamente tentativa.
 
 ### Un lugar entre las sombras
 
+![Decorado de calle parisina en la página 16 de "Un lugar entre las sombras"](img/decorado.png){#fig-decorado width=40% fig-pos="h!tbp"}
+
+Es muy complicado, o directamente imposible, saber dónde se sitúa la acción de este episodio de la serie. La falta de tropos visuales impide situarla exactamente en algún lugar.
+
+La mansión que se muestra en la primera viñeta y el hecho de que se trate de una actriz, apunta a Los Ángeles. Hay también una escena [p. 16, @DiazCanalesGuarnido2000Blacksad] @fig-decorado que se desarrolla en un estudio cinematográfico en una escena, que, por cierto, recuerda a la fotografía ["Hyeres" de Cartier Bresson](https://www.centrepompidou.fr/fr/ressources/oeuvre/cL9RgbG) tratando de decir quizá que el decorado imitaba a una calle parisina.
+
+Sin embargo, el resto de las escenas y sobre todo la imagen final, de una calle genérica de una gran ciudad con casas altas y mansiones con una pequeña escalera delante (típicas de las zonas más señoriales de Manhattan y Brooklyn) la colocan en una "gran ciudad americana genérica", como afirma @SantamariaAlonso2015. Yo tiendo a no estar de acuerdo; de hecho, la calle final podría corresponder a la zona de *downtown* Los Angeles. De hecho, en esa escena aparece un cartel de un comercio o bar llamado "Hammet's", una referencia a Dashiell Hammet lo que apuntaría a la costa este, ya que Hammet usa San Francisco como escenario para algunos de sus relatos.
+
+
 ```{=latex}
-\begin{wrapfigure}{r}{0.35\textwidth}
+\begin{wrapfigure}{r}{0.4\textwidth}
   \centering
-  \includegraphics[width=0.33\textwidth,height=0.8\textheight,keepaspectratio]{img/statoc-tower-small.jpg}
+  \includegraphics[width=0.4\textwidth,height=0.7\textheight,keepaspectratio]{img/statoc-tower-small.jpg}
   \caption{Blacksad dirigiéndose hacia la Statoc Tower}
   \label{fig-statoc}
 \end{wrapfigure}
 ```
 
-Es muy complicado, o directamente imposible, saber dónde se sitúa la acción de este episodio de la serie. La falta de tropos visuales impide situarla exactamente en algún lugar.
-
-```{=latex}
-\begin{wrapfigure}{l}{0.4\textwidth}
-  \centering
-  \includegraphics[width=0.38\textwidth,height=0.35\textheight,keepaspectratio]{img/decorado.png}
-  \caption{Decorado de calle parisina en la página 16 de ``Un lugar entre las sombras''}
-  \label{fig-decorado}
-\end{wrapfigure}
-```
-
-La mansión que se muestra en la primera viñeta y el hecho de que se trate de una actriz, apunta a Los Ángeles. Hay también una escena [p. 16, @DiazCanalesGuarnido2000Blacksad] que se desarrolla en un estudio cinematográfico en una escena, que, por cierto, recuerda a la fotografía ["Hyeres" de Cartier Bresson](https://www.centrepompidou.fr/fr/ressources/oeuvre/cL9RgbG) tratando de decir quizá que el decorado imitaba a una calle parisina.
-
-Sin embargo, el resto de las escenas y sobre todo la imagen final, de una calle genérica de una gran ciudad con casas altas y mansiones con una pequeña escalera delante (típicas de las zonas más señoriales de Manhattan y Brooklyn) la colocan en una "gran ciudad americana genérica", como afirma @SantamariaAlonso2015. Yo tiendo a no estar de acuerdo; de hecho, la calle final podría corresponder a la zona de *downtown* Los Angeles. De hecho, en esa escena aparece un cartel de un comercio o bar llamado "Hammet's", una referencia a Dashiell Hammet lo que apuntaría a la costa este, ya que Hammet usa San Francisco como escenario para algunos de sus relatos.
-
-La psicogeografía aparece en escenas como @fig-statoc: Blacksad se empequeñece ante la Statoc Tower, clara muestra del poder del constructor, el sapo Statoc. Los autores muestran las diferentes escalas de la ciudad, creando casi un *axis mundi* que conecta la tierra con el cielo de las estrellas; en este caso, las de cine ya que Statoc parece ser un trasunto de [Adolph Zukor](https://en.wikipedia.org/wiki/Adolph_Zukor), el magnate de la industria cinematográfica.
+La psicogeografía aparece en escenas como la Figura \ref{fig-statoc}: Blacksad se empequeñece ante la Statoc Tower, clara muestra del poder del constructor, el sapo Statoc. Los autores muestran las diferentes escalas de la ciudad, creando casi un *axis mundi* que conecta la tierra con el cielo de las estrellas; en este caso, las de cine ya que Statoc parece ser un trasunto de [Adolph Zukor](https://en.wikipedia.org/wiki/Adolph_Zukor) [@PintoTortosa20262], el magnate de la industria cinematográfica. Por otro lado, la torre, aunque inspirada en edificios reales (como la torre RCA), no corresponde a ningún hito real, dejando a la ciudad de este tomo en la indefinición.
 
 En todo caso, lo cierto es que lo que tratan de transmitir los autores es una ciudad *noir* por antonomasia, que toma referentes de diferentes grandes ciudades americanas quizás con el objetivo de colocarla en un universo propio y original. De hecho, en este primer número se inicia el llamado "Ciclo del color" que abarca los cinco primeros álbumes. En este caso el color que prevalece sería el negro (que técnicamente no es un color, sino ausencia del mismo).
 
@@ -96,11 +91,12 @@ En todo caso, lo cierto es que lo que tratan de transmitir los autores es una ci
 
 > El videojuego basado en el cómic "Under the skin" se sitúa entre este tomo y el anterior [@ClavijoCorchero2024; @FernandezRuizGarciaReyes2021]
 
-![¿Es un murciélago? ¿Es un gato? No, es Blacksad haciendo de Batman en Arctic Nation](img/blacksad-batman-small.jpg){#fig-batsad width=50% fig-pos="h!tbp"}
-
 El segundo álbum [@DiazCanalesGuarnido2003ArcticNation] del ciclo del color, tiene como color principal el blanco. En un contexto de racismo sistémico [@ClavijoCorchero2024] y apoyado por la policía, se presenta como una lucha racial de los animales con piel o pelambre blanca (osos polares, armiños) contra todos los demás.
 
-Eso fuerza la identificación de la ciudad con una del sur de estados unidos contradiciendo las afirmaciones en la literatura [@SantamariaAlonso2015; @PintoTortosa2026] que la identifican como Nueva York con la única base de la viñeta final donde aparece un edificio que podría parecerse al Empire State Building. Sin embargo, se ve en la propia viñeta a unos coches descenciendo una cuesta al final de la cual está ese edificio, un paisaje que no aparece en Nueva York, donde no hay prácticamente ninguna colina rodeando la isla de Manhattan.
+Eso fuerza la identificación de la ciudad con una del sur de estados unidos contradiciendo las afirmaciones en la literatura [@SantamariaAlonso2015; @PintoTortosa20262] que la identifican como Nueva York con la única base de la viñeta final donde aparece un edificio que podría parecerse al Empire State Building. Sin embargo, se ve en la propia viñeta a unos coches descendiendo una cuesta al final de la cual está ese edificio, un paisaje que no aparece en Nueva York, donde no hay prácticamente ninguna colina rodeando la isla de Manhattan.
+
+
+![¿Es un murciélago? ¿Es un gato? No, es Blacksad haciendo de Batman en Arctic Nation](img/blacksad-batman-small.jpg){#fig-batsad width=50% fig-pos="h!tbp"}
 
 Sin embargo, hay otros factores que contradicen esta identificación. Primero, por la actitud de racismo institucionalizado dentro de la misma policía, se trata de una ciudad en un estado del sur. La ciudad donde se desarrolla la acción está caracterizada por una serie de elementos visuales
 
@@ -133,7 +129,7 @@ Otro detalle permite situar una parte del álbum en Nueva York: la presencia de 
 
 Esta localización también permite situar a las calles dilapidadas, llenas de vagabundos y de basura, por las que Otto Liebber vaga en la página 31, en la misma ciudad; la tipología de las casas e incluso de la iglesia abandonada (p. 32) son compatibles con las que hay en esa ciudad. Díaz Canales y Guarnido usan recursos habituales para mostrar un barrio de extracción baja: ropas tendidas de balcón a balcón, ladronzuelos perseguidos por policías con porra, y las escaleras de escape metálicas que también suelen usarse iconográficamente para referirnos a esa ciudad.
 
-En la página 55, en tonos de gris y como resolución de la trama, aparece una ciudad alemana por la que pasea Liebber (el científico atómico) y plantea un enigma. @PintoTortosa2026 solo menciona que Lieberr va a un lugar desconocido; sin embargo el hecho de que Blacksad recibe una carta en el presente demuestra que Lieberr le está escribiendo desde el lugar que se muestra. Y lo que se muestra es una ciudad alemana, lo que se ve con el cartel que anuncia "Hauptstrasse", destruida casi en su totalidad pero en reconstrucción. Dado que nos hallamos en los años 50 y que las ciudades de Alemania Occidental estaban prácticamente reconstruidads a principios de los 50, eso podría indicar que se trata de una ciudad de la zona de Alemania ocupada por los soviéticos como Dresde, Leipzig o simplemente una pequeña ciudad donde Otto Liebber parece haber encontrado empleo como profesor de primaria a la vez que ayuda en la reconstrucción.
+En la página 55, en tonos de gris y como resolución de la trama, aparece una ciudad alemana por la que pasea Liebber (el científico atómico) y plantea un enigma. @PintoTortosa20262 solo menciona que Lieberr va a un lugar desconocido; sin embargo el hecho de que Blacksad recibe una carta en el presente demuestra que Lieberr le está escribiendo desde el lugar que se muestra. Y lo que se muestra es una ciudad alemana, lo que se ve con el cartel que anuncia "Hauptstrasse", destruida casi en su totalidad pero en reconstrucción. Dado que nos hallamos en los años 50 y que las ciudades de Alemania Occidental estaban prácticamente reconstruidads a principios de los 50, eso podría indicar que se trata de una ciudad de la zona de Alemania ocupada por los soviéticos como Dresde, Leipzig o simplemente una pequeña ciudad donde Otto Liebber parece haber encontrado empleo como profesor de primaria a la vez que ayuda en la reconstrucción.
 
 En este número empieza a haber referencias al mundo cultural y artístico, con una escena de una galería de arte llamada "Hopper" y un artista trasunto de Rothko, llamado Litvak; estas son las referencias culturales de este volumen, aunque hay muchas más: a Severo Ochoa (Otero) y Allen Ginsberg (un bisonte). La música tiene un papel importante a partir de este episodio: en el piso de Weekly suena "That Old Black Magic" [@oldblackmagic] de Ella Fitzgerald. También hay una referencia a Maus con Hitler como un gato en una foto [@SantamariaAlonso2015].
 
