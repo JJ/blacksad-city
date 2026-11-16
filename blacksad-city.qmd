@@ -29,7 +29,7 @@ Díaz Canales y Guarnido, respectivamente guionista y dibujante de la serie, se 
 
 ![Viñeta de *Arctic Nation* donde Weasel y Blacksad se encuentran](img/weasel-small.jpg){#fig-weasel fig-pos="h!tbp" width=40%}
 
-El siguiente personaje habitual es Weekly (a veces llamado simplemente *Week*), una comadreja (*weekly* – *weasel*) que ejerce de periodista, y que ocupa el rol de *buddy* y contrapunto cómico a la extrema seriedad de Blacksad. Sus ojos grandes y papada blanca, así como su pelaje marrón dorado, contrastan con el de Blacksad. Aparece por primera vez en la sexta viñeta de *Arctic Nation* [@DiazCanalesGuarnido2003ArcticNation], en la segunda página.
+El siguiente personaje habitual es Weekly (a veces llamado simplemente *Week*), una comadreja (*weekly* se parece a *weasel*) que ejerce de periodista, y que ocupa el rol de *buddy* y contrapunto cómico a la extrema seriedad de Blacksad. Sus ojos grandes y papada blanca, así como su pelaje marrón dorado, contrastan con el de Blacksad. Aparece por primera vez en la sexta viñeta de *Arctic Nation* [@DiazCanalesGuarnido2003ArcticNation], en la segunda página.
 
 Guarnido estuvo trabajando como animador en los estudios Disney en París durante diez años; de hecho, estuvo trabajando simultáneamente a las primeras ediciones del cómic. No solo esa idea de antropomorfizar animales viene de ahí, sino que incluso el dimorfismo sexual viene de esa escuela Disney [@RomeroBenguigui2023], donde además se usa el tipo de animal y sus atributos habituales (astucia del gato, el ser huidizo y la curiosidad de la comadreja) para describir de forma sencilla y directa un personaje.
 
@@ -38,13 +38,13 @@ La idea original del cómic, sin embargo, partió de Díaz Canales [@RomeroBengu
 # La ciudad como escenario en el cómic de Blacksad
 
 
-![Progresión de uso de paisajes urbanos en Blacksad](img/marcas-ciudad-small.jpg){#fig-marcas-ciudad fig-pos="h!tbp" width=40%}
+![Progresión de uso de paisajes urbanos en Blacksad](img/marcas-ciudad-small.jpg){#fig-marcas-ciudad fig-pos="h!tbp" width=60%}
 
 Como se ha indicado al principio, el *noir* se desarrolla en ciudades, no se puede entender sin las mismas, impartiendo un *sentido de lugar* que no es tan lejano a los relatos de viajes pero con un tinte psico-social que es específico de este tipo de novelas.
 
 Hasta cierto punto, las novelas gráficas, especialmente en este género, se pueden entender como un recorrido psicogeográfico [@Tso2020] a través de la ciudad que sigue al protagonista y a la acción, pero que también sitúa al lector abriendo perspectivas o creando una serie de hitos dentro de la ciudad, usando la propia cuadrícula de la página como un *camino* [@Davies2019] en el que el lector se convierte, con los personajes y especialmente Blacksad, en un *flâneur* o paseante [@Tolja2014] a la deriva por una ciudad que en el caso de Blacksad son reales y situadas en unos años 50 de América más o menos vagos.
 
-![Doble página de *El infierno, el silencio*, mostrando el contraste extremo en una sola ciudad](img/2paginas-infierno.jpg){#fig-infierno width=80% fig-pos="h!tbp"}
+![Doble página de *El infierno, el silencio*, mostrando el contraste extremo en una sola ciudad](img/2paginas-infierno.jpg){#fig-infierno width=100% fig-pos="h!tbp"}
 
 Estas derivas se van acentuando según progresa la serie, como muestra este apilado de todos los cómics con marcas en donde aparecen paisajes urbanos (@fig-marcas-ciudad), llegando a un pico en los últimos de la serie, *Todo cae* [@DiazCanalesGuarnido2021TodoCaePrimeraParte; @DiazCanalesGuarnido2023TodoCaeSegundaParte], donde la ciudad es casi un protagonista y posiblemente la verdadera víctima.
 
@@ -56,7 +56,7 @@ Página que nos sirve también para ilustrar cómo se refleja la ciudad como esc
 
 En algunos casos el cómic se convierte en metaficción con referencias a otras obras de arte visuales, en muchos casos contextualmente adecuadas, es decir, referenciando otras obras que suceden en el mismo lugar, o relacionadas de alguna forma temática con la obra. En otros casos, simplemente, se trata de homenajes, como veremos más adelante.
 
-# Las ciudades americanas, su color y sus iconografías
+# Las ciudades americanas, su color y sus iconografías en el "ciclo de los colores"
 
 
 En la ficción se suelen usar una serie de tropos visuales para identificar las ciudades de las que se trata; tanto en el cine como en los cómics, los autores usan esos tropos para que el lector sepa identificar esas ciudades y asignarles los atributos correspondientes, que pasan a formar parte del contexto en el que sucede la acción. A estos tropos se les añade el ambiente *noir* que les da un tono y una atmósfera determinada, pero siempre tratando de hacer las ciudades reconocibles. A continuación trataremos de ver, para los cinco primeros tomos, de qué ciudad se trata y cómo usan los autores la iconografía tradicional para introducirla.
@@ -65,7 +65,7 @@ En todo caso, los autores han tratado siempre de componer *la ciudad* como trasf
 
 ## Un lugar entre las sombras
 
-![Decorado de calle parisina en la página 16 de *Un lugar entre las sombras*](img/decorado.png){#fig-decorado width=40% fig-pos="h!tbp"}
+![Decorado de calle parisina en la página 16 de *Un lugar entre las sombras*](img/decorado.png){#fig-decorado width=50% fig-pos="h!tbp"}
 
 Es muy complicado, o directamente imposible, saber dónde se sitúa la acción de este episodio de la serie. La falta de tropos visuales impide situarla exactamente en algún lugar.
 
@@ -77,7 +77,7 @@ Sin embargo, el resto de las escenas y sobre todo la imagen final, de una calle 
 ```{=latex}
 \begin{wrapfigure}{r}{0.4\textwidth}
   \centering
-  \includegraphics[width=0.38\textwidth,height=0.7\textheight,keepaspectratio]{img/statoc-tower-small.jpg}
+  \includegraphics[width=0.4\textwidth,height=0.7\textheight,keepaspectratio]{img/statoc-tower-small.jpg}
   \caption{Blacksad dirigiéndose hacia la Statoc Tower}
   \label{fig-statoc}
 \end{wrapfigure}
@@ -94,7 +94,7 @@ El segundo álbum [@DiazCanalesGuarnido2003ArcticNation]^[El videojuego basado e
 Eso fuerza la identificación de la ciudad con una del sur de Estados Unidos contradiciendo las afirmaciones en la literatura [@SantamariaAlonso2015; @PintoTortosa20262] que la identifican como Nueva York con la única base de la viñeta final donde aparece un edificio que podría parecerse al Empire State Building. Sin embargo, se ve en la propia viñeta a unos coches descendiendo una cuesta al final de la cual está ese edificio, un paisaje que no aparece en Nueva York, donde no hay prácticamente ninguna colina rodeando la isla de Manhattan.
 
 
-![¿Es un murciélago? ¿Es un gato? No, es Blacksad haciendo de Batman en *Arctic Nation*](img/blacksad-batman-small.jpg){#fig-batsad width=50% fig-pos="h!tbp"}
+![¿Es un murciélago? ¿Es un gato? No, es Blacksad haciendo de Batman en *Arctic Nation*](img/blacksad-batman-small.jpg){#fig-batsad width=70% fig-pos="h!tbp"}
 
 Sin embargo, hay otros factores que contradicen esta identificación. Primero, por la actitud de racismo institucionalizado dentro de la misma policía, se trata de una ciudad en un estado del sur. La ciudad donde se desarrolla la acción está caracterizada por una serie de elementos visuales:
 
@@ -104,7 +104,7 @@ Sin embargo, hay otros factores que contradicen esta identificación. Primero, p
 - En esa línea elevada hay estaciones abandonadas, que sirven para una referencia intertextual a Batman y su Gotham City (@fig-batsad).
 - Tiene un papel fundamental en la trama una fábrica de aviación abandonada, donde aparece un bombardero semidesguazado que parece un [Boeing B-17 Flying Fortress](https://es.wikipedia.org/wiki/Boeing_B-17_Flying_Fortress) o en todo caso un bombardero pesado. La iglesia que aparece en la página 26, con una torre central y de estilo llamado federal o *colonial revival*, también puede encontrarse en la costa este estadounidense y especialmente en Maryland en suburbios como Annapolis, aunque es más frecuente que estén hechas en ladrillo y no en madera como esta.
 
-![Definitivamente no Nueva York: *rowhouses* en *Arctic Nation*](img/rowhouses-small.jpg){#fig-rowhouses width=50% fig-pos="h!tbp"}
+![Definitivamente no Nueva York: *rowhouses* en *Arctic Nation*](img/rowhouses-small.jpg){#fig-rowhouses width=80% fig-pos="h!tbp"}
 
 Hay varias ciudades que cumplen todas esas condiciones, entre ellas Memphis, Tennessee y Baltimore, Maryland. Pero hay un detalle adicional: en una viñeta en la página 44 aparece una estación de servicio de la marca (ficticia) East Coast Gasoline. Esto situaría a la ciudad definitivamente en la costa este, como Baltimore.
 
@@ -118,7 +118,7 @@ De forma relativamente excepcional, la historia continúa en las guardas del fin
 
 ## Alma roja
 
-![Blacksad dirigiéndose hacia la librería Low en Columbia](img/low-small.jpg){#fig-low width=40% fig-pos="h!tbp"}
+![Blacksad dirigiéndose hacia la librería Low en Columbia](img/low-small.jpg){#fig-low width=80% fig-pos="h!tbp"}
 
 Siguiendo la escena de la guarda de la portada, las primeras páginas transcurren en Las Vegas, principalmente en interiores, aunque en la segunda viñeta de la página 5 usa contrastes entre el dorado brillante de Las Vegas con el gris de un callejón para mostrar esta división psicogeográfica de la ciudad, la frontera entre lo visible y lo invisible.
 
@@ -134,7 +134,7 @@ En este número empieza a haber referencias al mundo cultural y artístico, con 
 
 ## El infierno, el silencio
 
-![Ignatius O'Reilly en una escena que muestra la intersección de la esquina de Canal con Bourbon y Carondelet Street, en Nueva Orleans. Marcado con una etiqueta naranja, Ignatius O'Reilly](img/ignatius-no-small.jpg){#fig-ignatius width=60% fig-pos="h!tbp"}
+![Ignatius O'Reilly en una escena que muestra la intersección de la esquina de Canal con Bourbon y Carondelet Street, en Nueva Orleans. Marcado con una etiqueta naranja, Ignatius O'Reilly](img/ignatius-no-small.jpg){#fig-ignatius width=90% fig-pos="h!tbp"}
 
 En este cuarto volumen que es exteriormente azul, pero que en realidad es el volumen multicolor del ciclo del color [@DiazCanalesGuarnido2010InfiernoSilencio] no es complicado asignarle Nueva Orleans, como ya se ha visto en la @fig-infierno. También aparece explícitamente en la página 5 en un llamado "Nueva Orleans Jazz'n'Fun". De hecho, aparte de usar fotografías históricas de referencia, hicieron un viaje sobre el terreno [@Freeman2014Guarnido]. Blacksad, como *flâneur*, nos ofrece una visión del *genius loci* o verdadera esencia urbana de la ciudad [@Tso2020] (@fig-infierno), mostrando el genio del lugar, un *sentido del lugar* que como se ha referido en la introducción, es la esencia del *noir*.
 
@@ -152,7 +152,7 @@ Este puente a medio construir es ya una prefiguración de *Todo cae*, los dos ú
 
 ## Amarillo
 
-![Blacksad y el gang de moteros por Polk Street en Amarillo, cruzada por la Ruta 66](img/amarillo-small.jpg){#fig-amarillo width=70% fig-pos="h!tbp"}
+![Blacksad y el gang de moteros por Polk Street en Amarillo, cruzada por la Ruta 66](img/amarillo-small.jpg){#fig-amarillo width=100% fig-pos="h!tbp"}
 
 No hace falta decir cuál es el color de este último tomo de la saga [@DiazCanalesGuarnido2013Amarillo]; se refiere en realidad a una ciudad de Texas, pero el color en un tono u otro inunda el álbum: Blacksad transita en un Cadillac Eldorado de color amarillo por las carreteras doradas del desierto al amanecer (página 8); el circo se llama Girasol y tiene una carpa de color amarillo; las flores marchitas en las últimas páginas también lo son.
 
@@ -175,13 +175,13 @@ La estación de Greyhound de Chicago vuelve a aparecer en la última viñeta, co
 
 # Historia de Nueva York en *Todo cae*
 
-![Lewis Solomon en medio de una "hooverville" o *slum* neoyorkino](img/solomon-hooverville-small.jpg){#fig-solomon-hooverville width=60% fig-pos="h!tbp"}
+![Lewis Solomon en medio de una *hooverville* o *slum* neoyorkino](img/solomon-hooverville-small.jpg){#fig-solomon-hooverville width=60% fig-pos="h!tbp"}
 
-En esta historia, dividida en dos volúmenes [@Hochwender2023BlacksadReview], es donde Díaz Canales y Guarnido se acercan más a la historia del urbanismo, el de Nueva York en los años 50 y sucesivos, cuando [Robert Moses](https://en.wikipedia.org/wiki/Robert_Moses), bajo el inocuo título de director de la Triborough Bridge Authority así como otros títulos como presidente de la comisión del parque estatal de Long Island, rehizo el urbanismo de la ciudad suprimiendo barrios enteros y segregando a base de vías infranqueables barrios de gente de color de otros para ingresos más altos.
+En esta historia, dividida en dos volúmenes [@DiazCanalesGuarnido2021TodoCaePrimeraParte; @DiazCanalesGuarnido2023TodoCaeSegundaParte;@Hochwender2023BlacksadReview], es donde Díaz Canales y Guarnido se acercan más a la historia del urbanismo, el de Nueva York en los años 50 y sucesivos, cuando [Robert Moses](https://en.wikipedia.org/wiki/Robert_Moses), bajo el inocuo título de director de la Triborough Bridge Authority así como otros títulos como presidente de la comisión del parque estatal de Long Island, rehizo el urbanismo de la ciudad suprimiendo barrios enteros y segregando a base de vías infranqueables barrios de gente de color de otros para ingresos más altos.
 
 En los dos tomos se recorre prácticamente toda la historia. Como se muestra en la @fig-solomon-hooverville, el trasunto de Moses, llamado Lewis Solomon (cambiando un profeta bíblico por otro), aparece en las *hoovervilles* con la intención de eliminarlas y crear sobre ellas un parque, en una de las raíces de la trama. Como se ha comentado, la raíz del *noir* es atajar las injusticias infligidas sobre alguien o algo. En este caso, la propia ciudad de Nueva York, convertida en *teriópolis* o ciudad de animales, es la que sufre estas injusticias. Los continuos viajes a las entrañas de Nueva York parece que sirva de trasunto de las entrañas metafóricas de la ciudad como organismo, y cómo a base de esos ataques y los cadáveres que aloja, la enfermedad acaba afectando a toda la ciudad. La injusticia social es un cáncer, y Blacksad trata de diagnosticarlo y, ya que no puede curarlo, al menos evitar su progreso.
 
-![Hitos psicogeográficos de la Nueva York de Solomon: el parque ahora (*Todo cae*, tomo I) y el poblado, antes (*Todo cae*, tomo II)](img/paralelo-small.jpg){#fig-paralelo width=80% fig-pos="h!tbp"}
+![Hitos psicogeográficos de la Nueva York de Solomon: el parque ahora (*Todo cae*, tomo I) y el poblado, antes (*Todo cae*, tomo II)](img/paralelo-small.jpg){#fig-paralelo width=100% fig-pos="h!tbp"}
 
 En @fig-paralelo, que aparece en el segundo tomo, los autores crean un hito psicogeográfico, uniendo la infancia sana y feliz de uno de los protagonistas al poblado en el que vivían, una *hooverville*. Las mismas torres que aparecen como fondo de la función teatral en el parque en el primer tomo. Así los autores transmiten el derribo de la colonia y la construcción, en el mismo lugar, del parque. Esto sucedió en los años 30, igual que en la serie: en lo que hoy es el *Great Lawn* se creó la llamada *Depression street*, una calle de construcciones improvisadas, algunas de ellas con bastante solidez. Robert Moses, como comisionado de parques, fue el que impulsó el desalojo. Aunque no es la posición que se refleja en la imagen, el fondo de la primera corresponde de forma precisa a [esta foto](https://avccxlqtlq.cloudimg.io/https://citydays.com/blog-assets/media/images/The_Best_Castles_to_visit_in_New_Y.2e16d0ba.fill-450x450_PUFpgZv.jpg), sacada desde Central Park. En primer término el Belvedere Castle, y las torres que se repiten son los [San Remo Apartments](https://es.wikipedia.org/wiki/The_San_Remo), que actúan así como ancla de la historia urbanística y también anclaje a la ciudad real. A la vez la imagen aparece en la página 33 como un cuadro en la casa de uno de los protagonistas, pintado por él, precisamente el niño-gaviota que aparece abajo a la derecha. El eje que une la historia personal con la historia urbanística y social se estructura de esta forma a través del hito psicogeográfico mostrado en las tres imágenes.
 
@@ -196,6 +196,10 @@ Una referencia adicional, otra, a Hopper es la viñeta en la página 38 del tomo
 # Conclusiones: ficción para el realismo
 
 De unos inicios en los cuales la ciudad es trasfondo y metáfora, la serie de Blacksad se va convirtiendo, poco a poco, en una crónica de las transformaciones en el transporte y el tránsito de masas y sus consecuencias urbanísticas narradas como una historia social y hasta cierto punto cultural de los Estados Unidos de los años 50: *Arctic Nation* habla de la segregación y del abandono de los barrios segregados; *Alma roja* incide más en la historia cultural, aunque también tiene una incursión en la reconstrucción de la Europa de la posguerra; *El infierno, el silencio* muestra una Nueva Orleans creada alrededor de los tranvías y apunta a su transformación usando puentes; *Amarillo* es la crónica del urbanismo de las interestatales y el ferrocarril de costa a costa; finalmente, *Todo cae* es la historia de la lucha de Robert Moses y el automóvil contra la ciudad.
+
+# Nota sobre las imágenes
+
+Todas las imágenes son (c) Díaz Canales y Guarnido. Se invoca el derecho de cita para incluirlas en este documento. No han sido modificadas ni retocadas salvo en el color y encuadre.
 
 # Referencias
 
