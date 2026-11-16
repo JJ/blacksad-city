@@ -72,11 +72,6 @@ En todo caso, los autores han tratado siempre de componer *la ciudad* como trasf
 
 Es muy complicado, o directamente imposible, saber dónde se sitúa la acción de este episodio de la serie. La falta de tropos visuales impide situarla exactamente en algún lugar.
 
-La mansión que se muestra en la primera viñeta y el hecho de que se trate de una actriz, apunta a Los Ángeles. Hay también una escena [p. 16, @DiazCanalesGuarnido2000Blacksad] (@fig-decorado) que se desarrolla en un estudio cinematográfico en una escena, que, por cierto, recuerda a la fotografía ["Hyères" de Cartier-Bresson](https://www.centrepompidou.fr/fr/ressources/oeuvre/cL9RgbG) tratando de decir quizá que el decorado imitaba a una calle parisina.
-
-Sin embargo, el resto de las escenas y sobre todo la imagen final, de una calle genérica de una gran ciudad con casas altas y mansiones con una pequeña escalera delante (típicas de las zonas más señoriales de Manhattan y Brooklyn) la colocan en una "gran ciudad americana genérica", como afirma @SantamariaAlonso2015. Yo tiendo a no estar de acuerdo; de hecho, la calle final podría corresponder a la zona de *downtown* Los Angeles. De hecho, en esa escena aparece un cartel de un comercio o bar llamado "Hammet's", una referencia a Dashiell Hammett lo que apuntaría a la costa oeste, ya que Hammett usa San Francisco como escenario para algunos de sus relatos.
-
-
 ```{=latex}
 \begin{wrapfigure}{r}{0.4\textwidth}
   \centering
@@ -85,6 +80,10 @@ Sin embargo, el resto de las escenas y sobre todo la imagen final, de una calle 
   \label{fig-statoc}
 \end{wrapfigure}
 ```
+
+La mansión que se muestra en la primera viñeta y el hecho de que se trate de una actriz, apunta a Los Ángeles. Hay también una escena [p. 16, @DiazCanalesGuarnido2000Blacksad] (@fig-decorado) que se desarrolla en un estudio cinematográfico en una escena, que, por cierto, recuerda a la fotografía ["Hyères" de Cartier-Bresson](https://www.centrepompidou.fr/fr/ressources/oeuvre/cL9RgbG) tratando de decir quizá que el decorado imitaba a una calle parisina.
+
+Sin embargo, el resto de las escenas y sobre todo la imagen final, de una calle genérica de una gran ciudad con casas altas y mansiones con una pequeña escalera delante (típicas de las zonas más señoriales de Manhattan y Brooklyn) la colocan en una "gran ciudad americana genérica", como afirma @SantamariaAlonso2015. Yo tiendo a no estar de acuerdo; de hecho, la calle final podría corresponder a la zona de *downtown* Los Angeles. De hecho, en esa escena aparece un cartel de un comercio o bar llamado "Hammet's", una referencia a Dashiell Hammett lo que apuntaría a la costa oeste, ya que Hammett usa San Francisco como escenario para algunos de sus relatos.
 
 La psicogeografía aparece en escenas como la Figura \ref{fig-statoc}: Blacksad se empequeñece ante la Statoc Tower, clara muestra del poder del constructor, el sapo Statoc. Los autores muestran las diferentes escalas de la ciudad, creando casi un *axis mundi* que conecta la tierra con el cielo de las estrellas; en este caso, las de cine ya que Statoc parece ser un trasunto de [Adolph Zukor](https://en.wikipedia.org/wiki/Adolph_Zukor) [@PintoTortosa20262], el magnate de la industria cinematográfica. Por otro lado, la torre, aunque inspirada en edificios reales (como la torre RCA), no corresponde a ningún hito real, dejando a la ciudad de este tomo en la indefinición.
 
