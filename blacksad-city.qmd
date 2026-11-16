@@ -1,8 +1,11 @@
 ---
 title: "La teriópolis *noir* en los cómics de Blacksad"
 author: "JJ Merelo"
-format: 
-  pdf
+format:
+  pdf:
+    include-in-header:
+      text: |
+        \usepackage{wrapfig}
 editor: visual
 bibliography: blacksad.bib
 csl: apa.csl
@@ -61,15 +64,33 @@ En todo caso, los autores han tratado siempre de componer *la ciudad* como trasf
 
 ### Un lugar entre las sombras
 
+```{=latex}
+\begin{wrapfigure}{r}{0.35\textwidth}
+  \centering
+  \includegraphics[width=0.33\textwidth,height=0.8\textheight,keepaspectratio]{img/statoc-tower-small.jpg}
+  \caption{Blacksad dirigiéndose hacia la Statoc Tower}
+  \label{fig-statoc}
+\end{wrapfigure}
+```
+
 Es muy complicado, o directamente imposible, saber dónde se sitúa la acción de este episodio de la serie. La falta de tropos visuales impide situarla exactamente en algún lugar.
 
-![Decorado de calle parisina en la página 16 de "Un lugar entre las sombras"](img/decorado.png){#fig-decorado width=40% fig-pos="h!tbp"}
+```{=latex}
+\begin{wrapfigure}{l}{0.4\textwidth}
+  \centering
+  \includegraphics[width=0.38\textwidth,height=0.35\textheight,keepaspectratio]{img/decorado.png}
+  \caption{Decorado de calle parisina en la página 16 de ``Un lugar entre las sombras''}
+  \label{fig-decorado}
+\end{wrapfigure}
+```
 
-La mansión que se muestra en la primera viñeta, y el hecho de que se trate de una actriz, apunta a Los Angeles. Hay también una escena [p. 16, @DiazCanalesGuarnido2000Blacksad] que se desarrolla en un estudio cinematográfico en una escena, que, por cierto, recuerda a la fotografía ["Hyeres" de Cartier Bresson](https://www.centrepompidou.fr/fr/ressources/oeuvre/cL9RgbG) tratando de decir quizá que el decorado imitaba a una calle parisina.
+La mansión que se muestra en la primera viñeta y el hecho de que se trate de una actriz, apunta a Los Ángeles. Hay también una escena [p. 16, @DiazCanalesGuarnido2000Blacksad] que se desarrolla en un estudio cinematográfico en una escena, que, por cierto, recuerda a la fotografía ["Hyeres" de Cartier Bresson](https://www.centrepompidou.fr/fr/ressources/oeuvre/cL9RgbG) tratando de decir quizá que el decorado imitaba a una calle parisina.
 
 Sin embargo, el resto de las escenas y sobre todo la imagen final, de una calle genérica de una gran ciudad con casas altas y mansiones con una pequeña escalera delante (típicas de las zonas más señoriales de Manhattan y Brooklyn) la colocan en una "gran ciudad americana genérica", como afirma @SantamariaAlonso2015. Yo tiendo a no estar de acuerdo; de hecho, la calle final podría corresponder a la zona de *downtown* Los Angeles. De hecho, en esa escena aparece un cartel de un comercio o bar llamado "Hammet's", una referencia a Dashiell Hammet lo que apuntaría a la costa este, ya que Hammet usa San Francisco como escenario para algunos de sus relatos.
 
-En todo caso, lo cierto es que lo que tratan de transmitir los autores es una ciudad *noir* por antonomasia, que toma referentes de diferentes grandes ciudades americanas quizás con el objetivo de colocarla en un universo propio y original. De hecho, en este primer número se inicia el llamado "Ciclo del color" que abarca los cinco primeros álbumes. En este caso el color que prevalece sería el negro (que técnicamente no es un color, sino ausencia del mismo)
+La psicogeografía aparece en escenas como @fig-statoc: Blacksad se empequeñece ante la Statoc Tower, clara muestra del poder del constructor, el sapo Statoc. Los autores muestran las diferentes escalas de la ciudad, creando casi un *axis mundi* que conecta la tierra con el cielo de las estrellas; en este caso, las de cine ya que Statoc parece ser un trasunto de [Adolph Zukor](https://en.wikipedia.org/wiki/Adolph_Zukor), el magnate de la industria cinematográfica.
+
+En todo caso, lo cierto es que lo que tratan de transmitir los autores es una ciudad *noir* por antonomasia, que toma referentes de diferentes grandes ciudades americanas quizás con el objetivo de colocarla en un universo propio y original. De hecho, en este primer número se inicia el llamado "Ciclo del color" que abarca los cinco primeros álbumes. En este caso el color que prevalece sería el negro (que técnicamente no es un color, sino ausencia del mismo).
 
 ### Arctic Nation
 
@@ -89,7 +110,7 @@ Sin embargo, hay otros factores que contradicen esta identificación. Primero, p
 - En esa línea elevada hay estaciones abandonadas, que sirven para una referencia intertextual a Batman y su Gotham City @fig-batsad.
 - Tiene un papel fundamental en la trama una fábrica de aviación abandonada, donde aparece un bombardero semidesguazado que parece un [Boeing B-17 Flying Fortress](https://es.wikipedia.org/wiki/Boeing_B-17_Flying_Fortress) o en todo caso un bombardero pesado. La iglesia que aparece en la página 26, con una torre central y de estilo llamado federal o *colonial revival*, también puede encontrarse en la costa este estadounidense y especialmente en Maryland en suburbios como Annapolis, aunque es más frecuente que estén hechas en ladrillo y no en madera como esta.
 
-![Definitivamente no Nueva York: *rowhouses* en Artctic Nation](img/rowhouses-small.jpg){#fig-rowhouses width=50% fig-pos="h!tbp"}
+![Definitivamente no Nueva York: *rowhouses* en Arctic Nation](img/rowhouses-small.jpg){#fig-rowhouses width=50% fig-pos="h!tbp"}
 
 Hay varias ciudades que cumplen todas esas condiciones, entre ellas Memphis, Tennessee y Baltimore, Maryland. Pero hay un detalle adicional: en una viñeta en la página 44 aparece una estación de servicio de la marca (ficticia) East Coast Gasoline. Esto situaría a la ciudad definitivamente en la costa este, como Baltimore.
 De hecho, Baltimore tiene también un relieve considerable, con colinas de hasta 140 metros, lo que explicaría las cuestas que aparecen frecuentemente en el álbum (por ejemplo, en la misma página 44 y en la última página a la que hemos aludido).
