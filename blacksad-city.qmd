@@ -71,7 +71,7 @@ Es muy complicado, o directamente imposible, saber dónde se sitúa la acción d
 
 La mansión que se muestra en la primera viñeta y el hecho de que se trate de una actriz, apunta a Los Ángeles. Hay también una escena [p. 16, @DiazCanalesGuarnido2000Blacksad] @fig-decorado que se desarrolla en un estudio cinematográfico en una escena, que, por cierto, recuerda a la fotografía ["Hyeres" de Cartier Bresson](https://www.centrepompidou.fr/fr/ressources/oeuvre/cL9RgbG) tratando de decir quizá que el decorado imitaba a una calle parisina.
 
-Sin embargo, el resto de las escenas y sobre todo la imagen final, de una calle genérica de una gran ciudad con casas altas y mansiones con una pequeña escalera delante (típicas de las zonas más señoriales de Manhattan y Brooklyn) la colocan en una "gran ciudad americana genérica", como afirma @SantamariaAlonso2015. Yo tiendo a no estar de acuerdo; de hecho, la calle final podría corresponder a la zona de *downtown* Los Angeles. De hecho, en esa escena aparece un cartel de un comercio o bar llamado "Hammet's", una referencia a Dashiell Hammet lo que apuntaría a la costa este, ya que Hammet usa San Francisco como escenario para algunos de sus relatos.
+Sin embargo, el resto de las escenas y sobre todo la imagen final, de una calle genérica de una gran ciudad con casas altas y mansiones con una pequeña escalera delante (típicas de las zonas más señoriales de Manhattan y Brooklyn) la colocan en una "gran ciudad americana genérica", como afirma @SantamariaAlonso2015. Yo tiendo a no estar de acuerdo; de hecho, la calle final podría corresponder a la zona de *downtown* Los Angeles. De hecho, en esa escena aparece un cartel de un comercio o bar llamado "Hammet's", una referencia a Dashiell Hammett lo que apuntaría a la costa este, ya que Hammet usa San Francisco como escenario para algunos de sus relatos.
 
 
 ```{=latex}
@@ -173,6 +173,7 @@ El cómic muestra también otras ciudades en la ruta 66, a veces indicada explí
 - Finalmente, el Empire State y el Chrysler buildings nos devuelven a Nueva York, con una vista del río East al fondo
 
 La estación de Greyhound de Chicago vuelve a aparecer en la última viñeta, completando el recorrido psicogeográfico de la Ruta 66 en sentido inverso.
+
 ## Historia de Nueva York en "Todo Cae"
 
 ![Lewis Solomon en medio de una "hooverville" o *slum* neoyorkino](img/solomon-hooverville-small.jpg){#fig-solomon-hooverville width=60% fig-pos="h!tbp"}
@@ -181,6 +182,9 @@ En esta historia, dividida en dos volúmenes [@Hochwender2023BlacksadReview] es 
 
 En los dos tomos se recorre prácticamente toda la historia. Como se muestra en la @fig-solomon-hooverville, el trasunto de Moses, llamado Lewis Solomon (cambiando un profeta bíblico por otro), aparece en las *hooverville* con la intención de eliminarlas y crear sobre ellas un parque, en una de las raíces de la trama. Como se ha comentado, la raíz del *noir* es atajar las injusticias infligidas sobre alguien o algo. En este caso, la propia ciudad de Nueva York, convertida en *teriópolis* o ciudad de animales, es la que sufre estas injusticias. Los continuos viajes a las entrañas de Nueva York parece que sirva de trasunto de las entrañas metafóricas de la ciudad como organismo, y cómo a base de esos ataques y los cadáveres que aloja, la enfermedad acaba afectando a toda la ciudad. La injusticia social es un cáncer, y Blacksad trata de diagnosticarlo y, ya que no puede curarlo, al menos evitar su progreso.
 
+![Hitos sicogeográficos de la Nueva York de Solomon: el parque ahora (Todo Cae I) y el poblado, antes (Todo Cae, II)](img/paralelo-small.jpg){#fig-paralelo width=80% fig-pos="h!tbp"}
+
+En @fig-paralelo, que aparece en el segundo tomo, los autores crean un hito psicogeográfico, uniendo la infancia sana y feliz de uno de los protagonistas al poblado en el que vivían, una *hooverville*. Las mismas torres que aparecen como fondo de la función teatral en el parque en el primer tomo. Así los autores transmiten el derribo de la colonia y la construcción, en el mismo lugar, del parque. Esto sucedió en los años 30, igual que en la serie: en lo que hoy es el *Great Lawn* se creó la llamada *Depression street*, una calle de construcciones improvisadas, algunas de ellas con bastante solidez. Robert Moses, como comisionado de parques, fue el que impulsó el desalojo. Aunque no es la posición que se refleja en la imagen, el fondo de la primera corresponde de forma precisa a [esta foto](https://avccxlqtlq.cloudimg.io/https://citydays.com/blog-assets/media/images/The_Best_Castles_to_visit_in_New_Y.2e16d0ba.fill-450x450_PUFpgZv.jpg), sacada desde Central Park. En primer término el Belvedere Castle, y las torres que se repiten son los [San Remo Apartments](https://es.wikipedia.org/wiki/The_San_Remo), que actúan así como ancla de la historia y también anclaje a la ciudad real.
 
 ## Conclusiones: ficción para el realismo
 
