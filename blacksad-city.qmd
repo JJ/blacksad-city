@@ -71,7 +71,7 @@ Es muy complicado, o directamente imposible, saber dónde se sitúa la acción d
 
 La mansión que se muestra en la primera viñeta y el hecho de que se trate de una actriz, apunta a Los Ángeles. Hay también una escena [p. 16, @DiazCanalesGuarnido2000Blacksad] @fig-decorado que se desarrolla en un estudio cinematográfico en una escena, que, por cierto, recuerda a la fotografía ["Hyeres" de Cartier Bresson](https://www.centrepompidou.fr/fr/ressources/oeuvre/cL9RgbG) tratando de decir quizá que el decorado imitaba a una calle parisina.
 
-Sin embargo, el resto de las escenas y sobre todo la imagen final, de una calle genérica de una gran ciudad con casas altas y mansiones con una pequeña escalera delante (típicas de las zonas más señoriales de Manhattan y Brooklyn) la colocan en una "gran ciudad americana genérica", como afirma @SantamariaAlonso2015. Yo tiendo a no estar de acuerdo; de hecho, la calle final podría corresponder a la zona de *downtown* Los Angeles. De hecho, en esa escena aparece un cartel de un comercio o bar llamado "Hammet's", una referencia a Dashiell Hammett lo que apuntaría a la costa este, ya que Hammet usa San Francisco como escenario para algunos de sus relatos.
+Sin embargo, el resto de las escenas y sobre todo la imagen final, de una calle genérica de una gran ciudad con casas altas y mansiones con una pequeña escalera delante (típicas de las zonas más señoriales de Manhattan y Brooklyn) la colocan en una "gran ciudad americana genérica", como afirma @SantamariaAlonso2015. Yo tiendo a no estar de acuerdo; de hecho, la calle final podría corresponder a la zona de *downtown* Los Angeles. De hecho, en esa escena aparece un cartel de un comercio o bar llamado "Hammet's", una referencia a Dashiell Hammett lo que apuntaría a la costa este, ya que Hammett usa San Francisco como escenario para algunos de sus relatos.
 
 
 ```{=latex}
@@ -191,6 +191,8 @@ Los dos ejes de la lucha de Moses/Solomon, contra el transporte público y las m
 Como se ha dicho, el *noir* da un sentido de lugar; usando todos los recursos al alcance del cómic, Canales y Guarnido usan la geografía física y del cómic para crear un relato que es a la vez una sicogeografía de la ciudad de Nueva York.
 
 Este capítulo también incluye referencias que lo encuadran totalmente dentro del género *noir*: la más importante es la que liga un halcón que representa a Horus en el despacho de Blacksad a Solomon, que de hecho se presenta en tal imagen (viñetas finales de la página 14, vol I); a su vez, hace una referencia "El Halcón Maltés", una de las obras más importantes de Dashiell Hammett y un hito del género.
+
+Una referencia adicional, otra, a Hopper es la viñeta en la página 38 del vol I, donde se *teriomorfiza* el "Nighthawks" de Hopper y se integra en la narración de Iris Allen de su vida en los años 30, convirtiendo al barman en un cerdo y a los otros parroquianos en una imagen vaga del animal. La imagen del mismo bar se actualiza al presente desde el que se está narrando y no se parece en nada, aunque la imagen siguien al cuadro presenta al barman con el cuadro de Hopper detrás, contrastando lo que fue y lo que es en ese momento.
 
 ## Conclusiones: ficción para el realismo
 
